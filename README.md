@@ -1,7 +1,5 @@
-# DBP
-Práctica 5: Servicios REST con Spring Boot
-EDGAR SARMIENTO CALISAYA
-•
+# Práctica 5: Servicios REST con Spring Boot
+
 10 jun (Última modificación: 22 jun)
 20 puntos
 Fecha de entrega: 24 jun 8:00
